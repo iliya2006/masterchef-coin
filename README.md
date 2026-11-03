@@ -50,6 +50,11 @@ The project is in an early development and documentation phase. The following ar
 
 No dates or delivery guarantees are implied by this roadmap.
 
+## Documentation
+
+- [Whitepaper](WHITEPAPER.md)
+- [Tokenomics](TOKENOMICS.md)
+
 ## Official community
 
 - **Telegram:** https://t.me/masterchef_coin
