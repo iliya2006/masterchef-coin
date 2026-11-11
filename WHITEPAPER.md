@@ -1,8 +1,8 @@
 # MasterChef Coin (MACH) — Whitepaper
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Early-stage project document  
-**Date:** 3 November 2026  
+**Date:** 11 November 2026  
 **Network:** BNB Smart Chain  
 **Token:** MACH
 
@@ -57,9 +57,11 @@ The figures above are project-provided information and are not an independent au
 
 ## 6. Token economics and supply
 
-The project currently states a total supply of **1,000,000,000 MACH** with **18 decimals**. A detailed allocation, vesting schedule, treasury policy, circulating-supply definition, and liquidity plan have not been confirmed in the information available for this document.
+The project currently states a total supply of **1,000,000,000 MACH** with **18 decimals**. The project owner's current allocation direction assigns **20% (200,000,000 MACH)** to the founder and team: 10% (100,000,000 MACH) for the founder and 10% (100,000,000 MACH) for the team, divided equally among three members (approximately 33,333,333.333 MACH each).
 
-For that reason, this whitepaper does not invent allocation percentages or claim that tokens have been reserved, locked, burned, distributed, or placed in liquidity pools. Any such details should be published only after they are finalized and supported by verifiable transaction records or contract mechanisms.
+The intended founder/team lock framework is a two-year plan with an initial one-year lock and release during year two. Exact release dates, frequency, beneficiary wallet addresses, fractional-unit rounding, and implementation mechanism remain unspecified. The remaining 80% (800,000,000 MACH) has not been allocated by this founder/team plan and requires a separately approved distribution plan.
+
+These figures describe a **project allocation plan only**. They do not establish that tokens have been segregated, transferred, vested, or locked on-chain. No on-chain lock or release is claimed. See [TOKENOMICS.md](TOKENOMICS.md) for the current detail and outstanding items.
 
 See [TOKENOMICS.md](TOKENOMICS.md) for the current tokenomics status.
 
