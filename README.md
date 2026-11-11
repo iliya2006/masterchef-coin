@@ -65,7 +65,8 @@ No dates or delivery guarantees are implied by this roadmap.
 
 - **Telegram:** https://t.me/masterchef_coin
 
-- **Website:** https://mach-coin1.carrd.co/\n- **Instagram:** https://www.instagram.com/masterchef_jafari/
+- **Website:** https://mach-coin1.carrd.co/
+- **Instagram:** https://www.instagram.com/masterchef_jafari/
 
 ## Risk disclosure
 
