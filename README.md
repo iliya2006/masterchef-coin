@@ -38,6 +38,12 @@ MACH is identified by the contract address above on BNB Smart Chain. Always veri
 
 The stated supply and token parameters should be independently checked on-chain. This repository is project documentation and does not itself verify contract ownership, source code, supply, liquidity, or security.
 
+## Founder and team allocation plan
+
+The current project-owner allocation direction assigns 20% of the stated supply (200,000,000 MACH) to the founder and team: 10% (100,000,000 MACH) for the founder and 10% (100,000,000 MACH) for the team, intended to be split equally among three members (approximately 33,333,333.333 MACH each). The intended framework is a two-year plan with a one-year initial lock and release during year two.
+
+This is a project plan, not evidence of an on-chain allocation, transfer, vesting contract, or token lock. Exact release dates, wallet addresses, and rounding details remain pending. The remaining 80% (800,000,000 MACH) is not allocated by this founder/team plan. See [TOKENOMICS.md](TOKENOMICS.md) for details.
+
 ## Roadmap
 
 The project is in an early development and documentation phase. The following are proposed priorities, not completed milestones:
@@ -73,4 +79,4 @@ For project updates and community information, use the official Telegram channel
 
 ---
 
-*Last documentation update: November 2026.*
+*Last documentation update: 11 November 2026.*
