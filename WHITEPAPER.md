@@ -90,7 +90,7 @@ No launch date, exchange listing, partnership, price target, or return is promis
 
 The currently provided official community channel is:
 
-- Telegram: https://t.me/masterchef_coin
+- Website: https://mach-coin1.carrd.co/\n- Telegram: https://t.me/masterchef_coin\n- Instagram: https://www.instagram.com/masterchef_jafari/
 
 Other official channels and a public website should be added to this document only after their public URLs are confirmed. Users should be cautious of impersonators, unsolicited messages, and unofficial contract addresses.
 
