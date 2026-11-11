@@ -65,7 +65,7 @@ No dates or delivery guarantees are implied by this roadmap.
 
 - **Telegram:** https://t.me/masterchef_coin
 
-Official website and additional channels will be added here once their public URLs are confirmed.
+- **Website:** https://mach-coin1.carrd.co/\n- **Instagram:** https://www.instagram.com/masterchef_jafari/
 
 ## Risk disclosure
 
