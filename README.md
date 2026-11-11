@@ -61,12 +61,12 @@ No dates or delivery guarantees are implied by this roadmap.
 - [Whitepaper](WHITEPAPER.md)
 - [Tokenomics](TOKENOMICS.md)
 
-## Official community
-
-- **Telegram:** https://t.me/masterchef_coin
+## Official project links
 
 - **Website:** https://mach-coin1.carrd.co/
 - **Instagram:** https://www.instagram.com/masterchef_jafari/
+- **Telegram:** https://t.me/masterchef_coin
+- **GitHub repository:** https://github.com/iliya2006/masterchef-coin
 
 ## Risk disclosure
 
@@ -76,8 +76,8 @@ This repository is informational only. It is not an offer, solicitation, financi
 
 ## Contributing and contact
 
-For project updates and community information, use the official Telegram channel above. Further contribution guidelines may be published as the repository and project develop.
+For project updates and community information, use the official channels listed above. Further contribution guidelines may be published as the repository and project develop.
 
 ---
 
-*Last documentation update: 11 November 2026.*
+*Last documentation update: 12 November 2026.*
